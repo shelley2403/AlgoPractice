@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/*
+target/generated-sources/*
+target/generated-test-sources/*
+target/classes/*
+target/maven-status/*
+target/test-classes/*
+.DS_Store
+AlgosPractice.iml
